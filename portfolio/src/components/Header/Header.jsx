@@ -1,4 +1,5 @@
 import React from "react"; 
+import Navbar from "../Navbar";
 /*import { NavLink } from "react-router-dom";
 import {
   AiOutlineMenu,
@@ -9,7 +10,8 @@ import {
 const Header = () => {
 
   return (
-  <header className = " w-full h-24 bg-black ">
+  <header>
+      <Navbar/>
 
   </header>
     )
