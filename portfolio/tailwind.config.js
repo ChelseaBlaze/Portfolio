@@ -2,9 +2,9 @@ module.exports = {
   content: ["./src/**/*.{js,jsx,ts,tsx}"],
   theme: {
     extend: {
+      fill: ['hover'],
       colors: {
-        background: "#000000",
-        footer: "#000000",
+        'main1':'#BBF8E5',
       },
     },
   },
