@@ -9,7 +9,7 @@ import {
 const Header = () => {
 
   return (
-  <header>
+  <header className = " w-full h-24 bg-black ">
 
   </header>
     )
