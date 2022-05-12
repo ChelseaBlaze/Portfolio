@@ -16,7 +16,7 @@ const Navbar = () => {
                 <p className=" mx-8 transition duration-500 hover:text-main1">Logo</p>
             </NavLink>
       </section>
-      <section className = " navmenu flex flex-row justify-end items-center w-3/4 mx-20">
+      <section className = " navmenu flex flex-row justify-end items-center w-3/4 mr-28">
         <ul className = " linklist flex flex-row mr-6 ">
             <NavLink to="/Projects">
                 <li className=" mx-8 transition duration-500 hover:text-main1">Projects</li>
