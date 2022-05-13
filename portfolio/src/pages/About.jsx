@@ -10,7 +10,7 @@ const About = () => {
         <section className=" about_container flex w-full h-4/5 justify-between align-center self-center pt-12">
           <section className=" w-2/4 relative ml-16 text-black items-center ">
             <img className=" w-10/12 object-cover absolute " src = { Blob } alt = 'text bubble' />
-            <div className="absolute w-3/4 z-2 pt-24 pl-20 text-lg">
+            <div className="absolute w-3/4 z-2 pt-20 pl-20 text-lg">
             <h1 className="text-4xl text-center">About Me</h1>
             <br/>
             <p>
