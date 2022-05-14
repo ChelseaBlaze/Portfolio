@@ -20,6 +20,7 @@ function App() {
           <Route path="/about" element={<About />} />
           <Route path="*" element={<BadURL404 />} />
         </Routes>
+        <Footer />
       </BrowserRouter>
     </div>
   );
