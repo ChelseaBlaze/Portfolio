@@ -16,8 +16,6 @@
                     <img src={Islademo} className="w-11/12" />
                 </section>
               </section>
-
-            <Footer />
         </main>
             )
         };

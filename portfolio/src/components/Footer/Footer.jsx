@@ -7,7 +7,7 @@ import { AiFillInstagram,
 
 const Footer = () => {
   return (
-    <footer className="flex flex-row w-full h-28 bg-black text-white absolute left-0 right-0 bottom-0 items-center justify-center ">
+    <footer className="flex flex-row w-full sticky h-28 lg:h-20 bg-black text-white left-0 right-0 bottom-0 items-center justify-center z-99 ">
       <a href="https://www.instagram.com/chel.css" target="_blank" className=" transition duration-700 hover:text-main1 ">
         <AiFillInstagram className=" w-10 h-10 md:w-12 md:h-12 mx-2" alt="instagram"/>
       </a>
