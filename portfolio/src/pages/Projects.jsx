@@ -24,7 +24,7 @@
                     <img src={Happeningdemo} />
                     </a>
                 </section>
-                <section className=" flex self-center justify-center items-center w-11/12 md:w-3/5 text-black -mt-5 md:-mt-0">
+                <section className=" flex self-center  items-center w-11/12 md:w-3/5 text-black -mt-5 md:-mt-0">
                   <img src= {Projectex} alt="An e-commerce website called Happening, that sells experiences as gifts. Texts reads: " className=" w-11/12 md:w-5/6" />
                 </section>
               </section>

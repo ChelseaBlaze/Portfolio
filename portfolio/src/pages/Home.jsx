@@ -1,6 +1,5 @@
-import mainpic from "../assets/main.png";
-import { Footer } from "../components";
-import mobilepic from "../assets/mainmobile.png"
+import mainpic from "../assets/main.svg";
+import mobilepic from "../assets/mainimgmobile.svg"
 
 const Home = () => {
 
