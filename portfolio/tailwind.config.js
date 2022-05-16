@@ -4,7 +4,7 @@ module.exports = {
     extend: {
       colors: {
         background: '#000000',
-        'main1': '#BBF8E5',
+        'main1': '#BBF8E5'
       },
       fill: ['hover'],
     },

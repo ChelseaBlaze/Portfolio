@@ -1,7 +1,6 @@
-import { Footer } from "../components";
 import  Phone  from "../assets/iphone.svg"
 import Closing from "../assets/closing.mp4"
-import Aboutme2 from "../assets/about2.png"
+import Aboutme from "../assets/about4.png"
 
 const About = () => {
 
@@ -9,7 +8,7 @@ const About = () => {
       <main className = " bg-black w-full min-h-screen ">
         <section className=" about_container flex w-full h-4/5 justify-center align-center self-center pt-5 flex-wrap lg:flex-nowrap ">
           <section className="about flex w-full md:w-9/12 lg:w-2/4 justify-center items-center mx-2 ">
-            <img className=" w-11/12" src={Aboutme2} alt="About me reads: " />
+            <img className=" w-full" src={Aboutme} alt="About me reads: " />
           </section>
           <section className="vidbox w-full md:w-9/12 lg:w-2/5 flex justify-center items-center mx-2 mt-5 lg:mt-0 ">
               <div className="flex justify-center items-center w-full h-2/4 relative">
