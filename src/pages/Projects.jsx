@@ -39,7 +39,7 @@
                   <img src= {Islainfo} alt="A web site for a fictitious island called Isla Tranquila. Texts reads: " className="w-full lg:w-11/12" />
                 </section>
                 <section className=" flex self-center justify-center items-center w-full md:w-2/4 md:mr-6 ">
-                  <a href="https://github.com/ChelseaBlaze/resort" target="_blank" className="w-11/12">
+                  <a href="https://isla-tranquila.netlify.app/" target="_blank" className="w-11/12">
                     <img src={Islademo} />
                     </a>
                 </section>
