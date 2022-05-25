@@ -1,6 +1,6 @@
 import  Phone  from "../assets/iphone.svg"
 import Closing from "../assets/closing.mp4"
-import Hi from "../assets/hi.png"
+import Hello from "../assets/hello.png"
 
 
 const About = () => {
@@ -10,7 +10,7 @@ const About = () => {
         <section className=" about_container flex w-full h-4/5 justify-center align-center self-center flex-wrap lg:flex-nowrap pt-4 lg:pt-8 ">
           <section className="about flex flex-col w-full  lg:w-2/4 justify-start items-center mx-61 text-black text-xl bg-main2 rounded-3xl mx-3 " >
             <h1 className="text-4xl pt-6 text-center font-semibold">About Me</h1>
-            <img className=" w-72 md:w-44 md:absolute md:top-52 md:left-12 lg:top-56 lg:left-24 pt-5 md:pt-0" src={Hi} />
+            <img className=" w-72 md:w-44 md:absolute md:top-52 md:left-12 lg:top-56 lg:left-24 pt-5 md:pt-0" src={Hello} />
             <div className ="md:flex-col pt-6 px-4 md:px-4 pb-7 w-full space-y-7 md:space-y-0 font-body">
               <div className="md:flex items-center w-full md:space-x-5 space-y-7 md:space-y-0 ">
                 <p className=" bg-white md:bg-main1 rounded-3xl p-3 md:p-4 md:pt-60 ">Hi! My name is Chelsea and I am currently wrapping up my studies in frontend development at Hyper Island in Stockholm. 
