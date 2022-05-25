@@ -1,4 +1,4 @@
-import mainpic from "../assets/main.svg";
+import mainpic from "../assets/main.png";
 import mobilepic from "../assets/mainimgmobile.svg"
 
 const Home = () => {

@@ -1,4 +1,3 @@
-      import Projectex from "../assets/project.png"
       import Islademo from "../assets/islatranquila.svg"
       import Happeningdemo from "../assets/happening.svg"
       import Floridamandemo from "../assets/floridaman.svg"
