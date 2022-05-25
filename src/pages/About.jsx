@@ -1,7 +1,5 @@
 import  Phone  from "../assets/iphone.svg"
 import Closing from "../assets/closing.mp4"
-import Aboutme from "../assets/about4.png"
-
 const About = () => {
 
     return (
