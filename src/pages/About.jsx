@@ -20,7 +20,7 @@ const About = () => {
               </div>
               <div className=" md:flex items-center w-full md:pt-4 md:space-x-5 space-y-7 md:space-y-0">
                 <p className=" bg-white rounded-3xl p-3 md:p-6 md:w-1/2">I am a social, positive, and curious person who tends to go the extra mile for the people in my life and for the work that I do. I thrive on new experiences and rarely say no when interesting opportunities come my way. </p>
-                <p className="bg-main1 rounded-3xl p-3 md:w-1/2 ">The film on this page was one of them. I promise I am much friendlier IRL! </p>
+                <p className="bg-main1 rounded-3xl p-3 md:w-1/2 ">The film on this page was one of them. I guaruntee that I am much friendlier IRL 😊 </p>
               </div>
 
               
