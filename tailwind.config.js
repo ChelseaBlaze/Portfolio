@@ -14,6 +14,9 @@ module.exports = {
       },
       fill: ['hover'],
     },
+    fontFamily: {
+      'body': ['"Gill Sans"', 'ui-sans-serif, sans-serif'],
+    },
   },
   plugins: [],
 };
