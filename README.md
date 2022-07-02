@@ -1,1 +1,1 @@
-My first portfolio site created using React and Tailwind CSS.
+My first portfolio site created with React and styled with Tailwind CSS.
