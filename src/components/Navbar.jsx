@@ -13,7 +13,7 @@ import {
 const Navbar = () => {
 
   return (
-  <nav className =" navbar flex width-full h-20 bg-black text-white md:text-2xl lg:text-3xl text-xl">
+  <nav className =" navbar flex width-full h-20 bg-black text-white md:text-2xl lg:text-2xl text-xl">
       <section className = " logo flex justify-start ml-1 self-center items-center w-1/4">
             <NavLink to="/" className="w-3/4 md:w-1/3 " >
                 <img src={Logo} className=" mx-2 md:mx-3 "/>
