@@ -17,7 +17,7 @@ const Projects = () => {
       <section className=" flex flex-col md:flex-row w-full h-4/5 justify-between align-center self-center pt-12">
         <section className=" flex self-center justify-center items-center w-full md:w-2/5 z-1 ">
           <a
-            href="https://www.figma.com/proto/Lamqlfm7KpX3l5LyGE9QgT/Twine?page-id=108%3A15&type=design&node-id=108-1285&viewport=-225%2C-124%2C0.18&t=9MLutFnKEheTgDMz-1&scaling=scale-down&starting-point-node-id=108%3A1285&show-proto-sidebar=1&mode=design"
+            href="https://www.figma.com/file/Lamqlfm7KpX3l5LyGE9QgT/Twine?type=design&node-id=108%3A7&mode=design&t=kQm0HaG9A5ytdUTZ-1"
             target="_blank"
             className="w-1/2"
           >
