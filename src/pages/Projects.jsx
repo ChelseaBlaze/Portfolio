@@ -16,8 +16,8 @@ import Poppisinfo from "../assets/poppisinfo.svg";
 const Projects = () => {
   return (
     <main className=" bg-black w-full min-h-screen ">
-      <section className=" flex flex-col-reverse md:flex-row-reverse w-full h-4/5 justify-between align-center self-center pt-12">
-        <section className=" flex self-center justify-start items-center md:w-2/5 z-1 ">
+      <section className=" flex flex-col md:flex-row-reverse w-full h-4/5 justify-between align-center self-center pt-12">
+        <section className=" flex self-center justify-center md:justify-start items-center md:w-2/5 z-1 ">
           <a
             href="https://www.figma.com/design/ynW35qPYDluOtgREkN17d2/Final-Project--Chelsea---Technigo?node-id=75-4359&t=YpUJoKhLzECV2RmX-1"
             target="_blank"
