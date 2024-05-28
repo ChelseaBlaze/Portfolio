@@ -4,16 +4,37 @@ import Floridamandemo from "../assets/floridaman.png";
 import Twinedemo from "../assets/twinedemo.png";
 import Experimentsdemo from "../assets/experiments.png";
 import Designthinkingdemo from "../assets/designthinking.png";
+import Poppisdemo from "../assets/poppis.png";
 import Islainfo from "../assets/islainfo.svg";
 import Happeninginfo from "../assets/happeninginfo.svg";
 import Floridamaninfo from "../assets/floridamaninfo.svg";
 import Twineinfo from "../assets/twineinfo.svg";
 import Experimentsinfo from "../assets/experimentsinfo.svg";
 import Designthinkinginfo from "../assets/designthinkinginfo.svg";
+import Poppisinfo from "../assets/poppisinfo.svg";
 
 const Projects = () => {
   return (
     <main className=" bg-black w-full min-h-screen ">
+      <section className=" flex flex-col-reverse md:flex-row-reverse w-full h-4/5 justify-between align-center self-center pt-12">
+        <section className=" flex self-center justify-start items-center md:w-2/5 z-1 ">
+          <a
+            href="https://www.figma.com/design/ynW35qPYDluOtgREkN17d2/Final-Project--Chelsea---Technigo?node-id=75-4359&t=YpUJoKhLzECV2RmX-1"
+            target="_blank"
+            className="w-1/2"
+          >
+            <img src={Poppisdemo} />
+          </a>
+        </section>
+        <section className=" flex self-center justify-center  items-center w-11/12 md:w-3/5 text-black -mt-5 md:-mt-0">
+          <img
+            src={Poppisinfo}
+            alt="The Poppis App makes creating and attending barnloppis easy and simple"
+            className=" w-full lg:w-4/6 md:w-5/6"
+          />
+        </section>
+      </section>
+
       <section className=" flex flex-col md:flex-row w-full h-4/5 justify-between align-center self-center pt-12">
         <section className=" flex self-center justify-center items-center w-full md:w-2/5 z-1 ">
           <a
